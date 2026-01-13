@@ -135,7 +135,9 @@ Os dashboards permitem identificar:
 ## Contato
 
 Diogo Zoboli
+
 e-mail: zobolidiogo@gmail.com
+
 LinkedIn: [linkedin.com/in/zobolidiogo](https://www.linkedin.com/in/zobolidiogo/)
 
 ---
