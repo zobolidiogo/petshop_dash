@@ -98,7 +98,7 @@ Os dashboards permitem identificar:
 
 - **dash_petshop.pbix** - Dashboard completo Power BI (dados + transformações + visualizações)
 - **documentacao_petshop.pdf** - Documentação técnica detalhada com metodologia e prints
-- **base_vendas_petshop.csv** - Base de dados original para análise
+- **base_vendas.csv** - Base de dados original para análise
 
 ---
 
@@ -107,7 +107,7 @@ Os dashboards permitem identificar:
 1. Clone o repositório ou baixe os arquivos diretamente.
 2. Abra o arquivo `dash_petshop.pbix` no Power BI.
 3. No Power BI, vá em **Transformar Dados** (Power Query).
-4. Na guia "Consultas", selecione a fonte de dados e edite a etapa **Fonte** para apontar para o caminho onde o arquivo `base_vendas_petshop.csv` está salvo na sua máquina.
+4. Na guia "Consultas", selecione a fonte de dados e edite a etapa **Fonte** para apontar para o caminho onde o arquivo `base_vendas.csv` está salvo na sua máquina.
 
 ---
 
